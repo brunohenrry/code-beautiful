@@ -1,4 +1,4 @@
-# Code Beautiful
+# Code Beautiful ✨
 
 **Code Beautiful** é um clone do ray.so, uma ferramenta que permite gerar imagens bonitas de trechos de código. Este projeto foi desenvolvido utilizando Vite, JavaScript, React e Shadcn.
 
